@@ -90,6 +90,51 @@ namespace mod7_103022400058
                 }
             }
         }
+        public class GenreDictionary_103022400126
+        {
+            public class gendre
+            {
+                public string category { get; set; }
+                public string genreinfo { get; set; }
+                public string id { get; set; }
+                public string name { get; set; }
+                public string description { get; set; }
+                public List<popularMovies> info { get; set; }
+            }
+            public class popularMovies
+            {
+
+                public string title { get; set; }
+            }
+
+            public void readJSON()
+            {
+                string filepath = "D:\\CODE\\Modul7_Kelompok5\\mod7_103022400058\\jurnal7_3_103022400126.json";
+
+                try
+                {
+                    if (!File.Exists(filepath))
+                    {
+                        Console.WriteLine($"File {filepath} tidak ditemukan!");
+                        return;
+                    }
+
+                    string jsonString = File.ReadAllText(filepath);
+                    gendre film = JsonSerializer.Deserialize<gendre>(jsonString);
+                    Console.WriteLine($"ID : {film.id} \nname : {film.genreinfo} \ndesc : {film.description}  \nPopular Movie : ");
+                    for (int i = 0; i < film.info.Count; i++)
+                    {
+                        Console.WriteLine(film.info[i].title);
+
+                    }
+                }
+                catch (Exception e)
+                {
+                    Console.WriteLine(e.Message);
+
+                }
+            }
+        }
         public class program
         {
             public static void Main(String[] args)
@@ -98,6 +143,9 @@ namespace mod7_103022400058
                 film.readJSON();
                 ListFavorit_103022400126 favorit_103022400126 = new ListFavorit_103022400126();
                 favorit_103022400126.readJSON();
+
+                GenreDictionary_103022400126 gendre = new GenreDictionary_103022400126();
+                gendre.readJSON();
             }
         }
     }
