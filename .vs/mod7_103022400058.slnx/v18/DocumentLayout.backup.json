@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{677DC5B5-F7E8-6B28-F61F-2109E36F6FC8}|mod7_103022400058\\mod7_103022400058.csproj|d:\\modul7_kelompok5\\mod7_103022400058\\jurnal7_1_103022400086.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{677DC5B5-F7E8-6B28-F61F-2109E36F6FC8}|mod7_103022400058\\mod7_103022400058.csproj|solutionrelative:mod7_103022400058\\jurnal7_1_103022400086.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677DC5B5-F7E8-6B28-F61F-2109E36F6FC8}|mod7_103022400058\\mod7_103022400058.csproj|d:\\modul7_kelompok5\\mod7_103022400058\\jurnal7_2_103022400086.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{677DC5B5-F7E8-6B28-F61F-2109E36F6FC8}|mod7_103022400058\\mod7_103022400058.csproj|solutionrelative:mod7_103022400058\\jurnal7_2_103022400086.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "jurnal7_2_103022400086.json",
+              "DocumentMoniker": "D:\\Modul7_Kelompok5\\mod7_103022400058\\jurnal7_2_103022400086.json",
+              "RelativeDocumentMoniker": "mod7_103022400058\\jurnal7_2_103022400086.json",
+              "ToolTip": "D:\\Modul7_Kelompok5\\mod7_103022400058\\jurnal7_2_103022400086.json",
+              "RelativeToolTip": "mod7_103022400058\\jurnal7_2_103022400086.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-15T01:00:24.823Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -51,7 +68,8 @@
               "RelativeToolTip": "mod7_103022400058\\jurnal7_1_103022400086.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-04-15T00:07:33.362Z"
+              "WhenOpened": "2026-04-15T00:07:33.362Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -61,7 +79,7 @@
               "RelativeDocumentMoniker": "mod7_103022400058\\Program.cs",
               "ToolTip": "D:\\Modul7_Kelompok5\\mod7_103022400058\\Program.cs",
               "RelativeToolTip": "mod7_103022400058\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAADIAAAAAAAAAAADwv0AAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T23:43:50.199Z",
               "EditorCaption": ""
