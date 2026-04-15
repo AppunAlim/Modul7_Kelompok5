@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\mod7_103022400058\\mod7_103022400058\\mod7_103022400058.csproj": {}
+    "D:\\Modul7_Kelompok5\\mod7_103022400058\\mod7_103022400058.csproj": {}
   },
   "projects": {
-    "D:\\mod7_103022400058\\mod7_103022400058\\mod7_103022400058.csproj": {
+    "D:\\Modul7_Kelompok5\\mod7_103022400058\\mod7_103022400058.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\mod7_103022400058\\mod7_103022400058\\mod7_103022400058.csproj",
+        "projectUniqueName": "D:\\Modul7_Kelompok5\\mod7_103022400058\\mod7_103022400058.csproj",
         "projectName": "mod7_103022400058",
-        "projectPath": "D:\\mod7_103022400058\\mod7_103022400058\\mod7_103022400058.csproj",
+        "projectPath": "D:\\Modul7_Kelompok5\\mod7_103022400058\\mod7_103022400058.csproj",
         "packagesPath": "C:\\Users\\PRAKTIKAN\\.nuget\\packages\\",
-        "outputPath": "D:\\mod7_103022400058\\mod7_103022400058\\obj\\",
+        "outputPath": "D:\\Modul7_Kelompok5\\mod7_103022400058\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\mod7_103022400058\\",
+  "WorkspaceRootPath": "D:\\Modul7_Kelompok5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2A7A139-ED47-4B10-A8C7-2137BDBBDF3F}|mod7_103022400058\\mod7_103022400058.csproj|d:\\mod7_103022400058\\mod7_103022400058\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2A7A139-ED47-4B10-A8C7-2137BDBBDF3F}|mod7_103022400058\\mod7_103022400058.csproj|solutionrelative:mod7_103022400058\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{677DC5B5-F7E8-6B28-F61F-2109E36F6FC8}|mod7_103022400058\\mod7_103022400058.csproj|d:\\modul7_kelompok5\\mod7_103022400058\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677DC5B5-F7E8-6B28-F61F-2109E36F6FC8}|mod7_103022400058\\mod7_103022400058.csproj|solutionrelative:mod7_103022400058\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677DC5B5-F7E8-6B28-F61F-2109E36F6FC8}|mod7_103022400058\\mod7_103022400058.csproj|d:\\modul7_kelompok5\\mod7_103022400058\\filmfavorit_103022400086.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{677DC5B5-F7E8-6B28-F61F-2109E36F6FC8}|mod7_103022400058\\mod7_103022400058.csproj|solutionrelative:mod7_103022400058\\filmfavorit_103022400086.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{677DC5B5-F7E8-6B28-F61F-2109E36F6FC8}|mod7_103022400058\\mod7_103022400058.csproj|d:\\modul7_kelompok5\\mod7_103022400058\\jurnal7_1_103022400086.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{677DC5B5-F7E8-6B28-F61F-2109E36F6FC8}|mod7_103022400058\\mod7_103022400058.csproj|solutionrelative:mod7_103022400058\\jurnal7_1_103022400086.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +30,38 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilmFavorit_103022400086.cs",
+              "DocumentMoniker": "D:\\Modul7_Kelompok5\\mod7_103022400058\\FilmFavorit_103022400086.cs",
+              "RelativeDocumentMoniker": "mod7_103022400058\\FilmFavorit_103022400086.cs",
+              "ToolTip": "D:\\Modul7_Kelompok5\\mod7_103022400058\\FilmFavorit_103022400086.cs",
+              "RelativeToolTip": "mod7_103022400058\\FilmFavorit_103022400086.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-15T00:13:13.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "jurnal7_1_103022400086.json",
+              "DocumentMoniker": "D:\\Modul7_Kelompok5\\mod7_103022400058\\jurnal7_1_103022400086.json",
+              "RelativeDocumentMoniker": "mod7_103022400058\\jurnal7_1_103022400086.json",
+              "ToolTip": "D:\\Modul7_Kelompok5\\mod7_103022400058\\jurnal7_1_103022400086.json",
+              "RelativeToolTip": "mod7_103022400058\\jurnal7_1_103022400086.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-15T00:07:33.362Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\mod7_103022400058\\mod7_103022400058\\Program.cs",
+              "DocumentMoniker": "D:\\Modul7_Kelompok5\\mod7_103022400058\\Program.cs",
               "RelativeDocumentMoniker": "mod7_103022400058\\Program.cs",
-              "ToolTip": "D:\\mod7_103022400058\\mod7_103022400058\\Program.cs",
+              "ToolTip": "D:\\Modul7_Kelompok5\\mod7_103022400058\\Program.cs",
               "RelativeToolTip": "mod7_103022400058\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwC4AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T23:43:50.199Z",
               "EditorCaption": ""
