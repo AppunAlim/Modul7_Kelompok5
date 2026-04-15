@@ -78,6 +78,36 @@ namespace mod7
             }
         }
     }
+    public class GenreDictionary_103022400058
+    {
+
+        public void ReadJson()
+        {
+            string filepath = "D:\\mod7_103022400058\\mod7_103022400058\\jurnal7_3_103022400058.json";
+            try
+            {
+                if (!File.Exists(filepath))
+                {
+                    Console.WriteLine($"File {filepath} tidak ditemukan!");
+                    return;
+                }
+
+                string jsonString = File.ReadAllText(filepath);
+                WatchList film = JsonSerializer.Deserialize<WatchList>(jsonString);
+                Console.WriteLine($"WatchList name : {film.watchListName} \nCreated BY : {film.createdBy} \nMovies : ");
+                for (int i = 0; i < film.movies.Count; i++)
+                {
+                    Console.WriteLine(film.movies[i].id + " " + film.movies[i].title + " " + film.movies[i].genre + " (" + film.movies[i].year + " - " + film.movies[i].rating + ")");
+
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+
+            }
+        }
+    }
 
     public class Program
     {
